@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">LoveTracker</string>
+    <string name="when_you_starting_dating">When you starting dating?</string>
+    <string name="skip">Skip</string>
+    <string name="date">Date</string>
+    <string name="cont">Continue</string>
+    <string name="choose_avatars">Choose avatars and names</string>
+    <string name="allow">Allow</string>
+    <string name="decline">Decline</string>
+    <string name="please_allow">Please Allow</string>
+    <string name="allow_read_storage">Allow read storage images (for avatars)</string>
 </resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoveTracker</string>
+    <string name="when_you_starting_dating">Когда вы начали встречаться?</string>
+    <string name="skip">Пропустить</string>
+    <string name="date">Дата</string>
+    <string name="cont">Продолжить</string>
+    <string name="choose_avatars">Выберите автары и имена</string>
+    <string name="allow">Разрешить</string>
+    <string name="decline">Отклонить</string>
+    <string name="please_allow">Пожалуйста, разрешите</string>
+    <string name="allow_read_storage">Разрешить чтение файлов (для аватарок)</string>
+</resources>
